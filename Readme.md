@@ -83,7 +83,7 @@
 
        user =  user id
        title = title
-       descriptio = description
+       description = description
        file = select file
 
 
