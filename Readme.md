@@ -20,7 +20,7 @@
     step 4: Go to 2-step verification
     step 5: Create App Password
     step 6: Choose Custom App
-    step 7: Copy ans save the password
+    step 7: Copy and save the password
     
     settings.py
 
