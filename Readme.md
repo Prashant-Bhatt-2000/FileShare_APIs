@@ -89,7 +89,7 @@
 
     5. Download File (Only Client Can download the Files)
        
-        Note : You need an Client access token to get list 
+        Note : You need an Client access token to download file
 
        Route : http://localhost:8000/api/files/downloadfile/file_id
 
